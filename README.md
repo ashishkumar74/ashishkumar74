@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
-<!--<p align="center">
-  <img src="https://github.com/ashishkumar74/ashishkumar74/blob/main/Orange%20Yellow%20Modern%20Web%20Development%20LinkedIn%20Career%20Page%20Background.png" />
-</p>-->
+<p align="center">
+  <img src="https://github.com/ashishkumar74/ashishkumar74/blob/main/GITBAN.png" />
+</p>
 
 <h1 align="center">
   Hello, I'm <span style="color:#ff9f1c;">Ashish Kumar</span>
